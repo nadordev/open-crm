@@ -1,1 +1,1 @@
-# open-crm
+# open-faircrm
